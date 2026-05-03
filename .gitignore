@@ -1,0 +1,29 @@
+# Generated output files (created when running the practical scripts)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# Exception: keep any explicitly tracked sample images if added in the future
+# !some_sample.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Pyro4 URI files (created by 4_RMI_Calculator.py)
+calculator_uri.txt
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS metadata
+.DS_Store
+Thumbs.db
