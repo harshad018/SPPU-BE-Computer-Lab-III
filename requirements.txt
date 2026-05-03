@@ -1,0 +1,23 @@
+# SPPU BE Computer Laboratory III – Python Dependencies
+# Install all dependencies with:
+#   pip install -r requirements.txt
+
+# Core scientific computing
+numpy>=1.21.0
+scikit-learn>=0.24.0
+matplotlib>=3.4.0
+
+# Fuzzy logic controller (Practical 2 – existing, Practical 4 – new)
+scikit-fuzzy>=0.4.2
+
+# Distributed computing / RMI via Pyro4 (Practical 4_RMI_Calculator.py)
+Pyro4>=4.80
+
+# Deep Learning – ANN, GA-NN, Neural Style Transfer
+tensorflow>=2.8.0
+
+# Image I/O for Neural Style Transfer
+Pillow>=9.0.0
+
+# Note: xmlrpc (Practicals 1 & 2) is part of the Python standard library
+#       and does NOT require a separate pip install.

@@ -1,0 +1,10 @@
+The quick brown fox jumps over the lazy dog
+A distributed system is a system whose components are located on different networked computers
+Hadoop is an open source distributed processing framework that manages data processing
+The MapReduce programming model was introduced by Google to process large data sets
+Word count is a classic example of MapReduce where each word is mapped to a count of one
+Distributed computing involves coordinating multiple computers to solve computational problems
+Big data processing requires scalable frameworks like Hadoop and Spark for efficient computation
+The map function processes input key value pairs to generate intermediate key value pairs
+The reduce function merges all intermediate values associated with the same intermediate key
+Apache Hadoop is written in Java and provides a distributed file system called HDFS
