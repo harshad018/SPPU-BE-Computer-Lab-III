@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Java build artifacts
+*.class
+
+# Neural Style Transfer generated outputs
+Part_II/Assignment_6_Neural_Style_Transfer/*.jpg
+Part_II/Assignment_6_Neural_Style_Transfer/*.png
+Part_II/Assignment_5_ACO_TSP/aco_tsp_tour.png
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
