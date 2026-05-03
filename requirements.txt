@@ -1,0 +1,29 @@
+# Python dependencies for SPPU BE Computer Laboratory III
+
+# ---- Part I ---------------------------------------------------------------
+numpy
+scikit-fuzzy
+Pyro4
+tensorflow
+keras
+matplotlib
+
+# ---- Part II --------------------------------------------------------------
+# Assignment 1 – AIS Structure Damage Classification
+scikit-learn
+
+# Assignment 2 – Distributed Evolutionary Algorithms with DEAP
+deap
+
+# Assignment 4 – Weather MapReduce (requests only needed for --download flag)
+requests
+
+# Assignment 6 – Neural Style Transfer
+Pillow
+
+# ---- Part II Java (Assignment 3 – Hotel Booking RMI) ----------------------
+# No Python packages required.
+# Install Java JDK 8+:
+#   Ubuntu/Debian: sudo apt install default-jdk
+#   macOS:         brew install openjdk
+#   Windows:       https://adoptium.net/
